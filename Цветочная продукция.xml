@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns="XSD3.xsd"> Цветочная продукция  <br />
+<Flower> 
+<Codflower>Код цветка</Codflower>
+<NameFlower>Название цветка</NameFlower>
+<ClassFlower>Сорт цветка</ClassFlower>
+<AverageHeight>Средня высота</AverageHeight>
+<Flowering>Цветущий</Flowering>
+<AdditionalInformation>Дополнительная информация</AdditionalInformation>
+</Flower>
+<Flower>
+<Codflower>1</Codflower>
+<NameFlower>Нарцисс</NameFlower>
+<ClassFlower>Нарцисс поэтический</ClassFlower>
+<AverageHeight>60 см</AverageHeight>
+<Flowering>да</Flowering>
+<AdditionalInformation>род однодольных растений из семейства амариллисовых</AdditionalInformation>
+</Flower>
+<Flower>
+<Codflower>2</Codflower>
+<NameFlower>Роза</NameFlower>
+<ClassFlower>Красная роза</ClassFlower>
+<AverageHeight>90 см</AverageHeight>
+<Flowering>да</Flowering>
+<AdditionalInformation>собирательное название видов и сортов представителей рода Шиповник</AdditionalInformation>
+</Flower>
+<Flower>
+<Codflower>3</Codflower>
+<NameFlower>Лилия</NameFlower>
+<ClassFlower>Лилия белоснежная</ClassFlower>
+<AverageHeight>1 м</AverageHeight>
+<Flowering>да</Flowering>
+<AdditionalInformation>многолетнее луковичное растение</AdditionalInformation>
+</Flower>
+<Flower>
+<Codflower>4</Codflower>
+<NameFlower>Хризантема</NameFlower>
+<ClassFlower>Хризантема индийская</ClassFlower>
+<AverageHeight>50 см</AverageHeight>
+<Flowering>да</Flowering>
+<AdditionalInformation>род однолетних и многолетних травянистых растений семейства Астровые, или Сложноцветные, близкий к родам Тысячелистник и Пижма</AdditionalInformation>
+</Flower>
+
+</Root>
